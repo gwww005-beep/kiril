@@ -1,7 +1,9 @@
 {
-  "checks": 17,
+  "checks": 24,
   "failures": [],
   "coverage": [
+    "hero visibility boundary",
+    "responsive hero height",
     "assembly order",
     "reverse scroll",
     "restoration",

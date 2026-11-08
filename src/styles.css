@@ -399,7 +399,8 @@
 .catalog-tabs .filter-chip:focus-visible{outline-offset:-4px;box-shadow:none}
 
 /* A LifeBatt assembly story follows the reader without intercepting scrolling. */
-.battery-story{--connected:1;--board:1;--case:1;--powered:1;--branded:1;position:fixed;z-index:40;left:16px;top:50%;transform:translateY(-44%);width:144px;pointer-events:none;color:var(--light)}
+.battery-story{--connected:1;--board:1;--case:1;--powered:1;--branded:1;position:fixed;z-index:40;left:16px;top:50%;transform:translateY(-44%);width:144px;pointer-events:none;color:var(--light);opacity:0;visibility:hidden;transition:opacity .18s ease}
+.battery-story.is-visible{opacity:1;visibility:visible}
 .battery-story__art{width:100%}
 .battery-story__drawing{display:block;width:100%;height:auto;overflow:visible}
 .battery-story__caption{padding-inline:12px}
@@ -418,9 +419,12 @@
 .battery-power{opacity:var(--powered)}
 .battery-energy{stroke-dasharray:1;stroke-dashoffset:calc(1 - var(--powered))}
 .battery-brand{opacity:var(--branded)}
-.home-page>main,.home-page>.footer{margin-left:160px}
+.home-page{--story-gutter:160px}
+.home-page>main,.home-page>.footer{margin-left:var(--story-gutter)}
+/* The hero spans the viewport; only the following sections reserve a drawing rail. */
+.home-page>main>.hero{margin-left:calc(-1 * var(--story-gutter));width:calc(100% + var(--story-gutter))}
 .home-page.menu-open .battery-story{visibility:hidden}
-@media(min-width:1800px){.battery-story{left:calc((100vw - 1760px)/2);width:160px}.home-page>main,.home-page>.footer{margin-left:100px}}
+@media(min-width:1800px){.battery-story{left:calc((100vw - 1760px)/2);width:160px}.home-page{--story-gutter:100px}}
 @media(min-width:640px) and (max-width:1099px){
  .battery-story{left:5px;width:78px;transform:translateY(-40%)}
  .battery-story__caption{padding-inline:6px}
@@ -428,7 +432,7 @@
  .battery-story__stage{font-size:11px;min-height:46px}
  .battery-story__hint{font-size:9px}
  .battery-story__steps{gap:3px}
- .home-page>main,.home-page>.footer{margin-left:88px}
+ .home-page{--story-gutter:88px}
 }
 @media(max-width:639px){
  .battery-story{top:56px;left:0;right:0;transform:none;width:auto;height:80px;display:flex;align-items:center;gap:12px;padding-inline:20px;background:var(--bg);border-bottom:1px solid var(--line-strong);overflow:hidden}
@@ -441,8 +445,8 @@
  .battery-story__stage{font-size:13px;min-height:18px}
  .battery-story__steps{margin:8px 0 0;max-width:160px}
  .battery-story__hint{display:none}
- .home-page>main{margin-left:0;padding-top:80px}
- .home-page>.footer{margin-left:0}
+ .home-page{--story-gutter:0px}
+ .home-page .product-section{padding-top:102px}
  html:has(.home-page){scroll-padding-top:152px}
  .home-page .battery-story__intro{word-spacing:normal}
 }
