@@ -1,0 +1,14 @@
+{
+  "checks": 17,
+  "failures": [],
+  "coverage": [
+    "assembly order",
+    "reverse scroll",
+    "restoration",
+    "overscroll",
+    "animation frame coalescing",
+    "reduced motion",
+    "resize",
+    "decorative accessibility"
+  ]
+}

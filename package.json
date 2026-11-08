@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node scripts/build.ts",
     "build:production": "SITE_MODE=production node scripts/build.ts",
-    "test": "node scripts/verify.mjs --static && node scripts/behavior.mjs",
+    "test": "node scripts/verify.mjs --static && node scripts/behavior.mjs && node scripts/battery-story-test.mjs",
     "preview": "node scripts/preview.mjs",
     "test:browser": "node scripts/verify.mjs",
     "build:pages": "npm run build && npm test && node scripts/prepare-pages.mjs"
