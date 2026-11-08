@@ -1,0 +1,289 @@
+[
+  {
+    "source": "https://lifebatt.ru/alarmsystems",
+    "target_path": "/alarmsystems",
+    "type": "Отрасль",
+    "title": "Видеонаблюдение и сигнализации",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/battery-design",
+    "target_path": "/battery-design",
+    "type": "Услуга",
+    "title": "Проектирование аккумуляторных батарей на заказ — Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/bms",
+    "target_path": "/bms",
+    "type": "Продукция",
+    "title": "Платы BMS (Battery Management System) — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/catalog",
+    "target_path": "/catalog",
+    "type": "Каталог",
+    "title": "Каталог",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/chargers",
+    "target_path": "/chargers",
+    "type": "Продукция",
+    "title": "Зарядные устройства для аккумуляторов — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/delivery_and_payment",
+    "target_path": "/delivery_and_payment",
+    "type": "Информация",
+    "title": "Доставка и оплата",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/electric_cars",
+    "target_path": "/electric_cars",
+    "type": "Отрасль",
+    "title": "Электромобили и гольфкары",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/gas_and_oil",
+    "target_path": "/gas_and_oil",
+    "type": "Отрасль",
+    "title": "Газо-нефтедобывающая промышленность",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/",
+    "target_path": "/",
+    "type": "Главная",
+    "title": "Литиевые аккумуляторы и комплектующие от Российского производителя",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/li-ion",
+    "target_path": "/li-ion",
+    "type": "Продукция",
+    "title": "Литий-ионные аккумуляторные батареи (Li-ion) — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/li-pol",
+    "target_path": "/li-pol",
+    "type": "Продукция",
+    "title": "Литий-полимерные аккумуляторные батареи (Li-pol) — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/lifepo4",
+    "target_path": "/lifepo4",
+    "type": "Продукция",
+    "title": "Литий-железо-фосфатные аккумуляторные батареи (LiFePO4) — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/lto",
+    "target_path": "/lto",
+    "type": "Продукция",
+    "title": "Литий-титанатные аккумуляторные батареи (LTO) — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/medical",
+    "target_path": "/medical",
+    "type": "Отрасль",
+    "title": "Медицинское оборудование",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/military_industry",
+    "target_path": "/military_industry",
+    "type": "Отрасль",
+    "title": "Военная отрасль",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/mobility",
+    "target_path": "/mobility",
+    "type": "Отрасль",
+    "title": "Средства индивидуальной мобильности",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/multicopters",
+    "target_path": "/multicopters",
+    "type": "Отрасль",
+    "title": "БПЛА и мультикоптеры",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/otzyvy",
+    "target_path": "/otzyvy",
+    "type": "Информация",
+    "title": "Отзывы",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/page58974251.html",
+    "target_path": "/page58974251.html",
+    "type": "Проверить дубликат",
+    "title": "Copy",
+    "action": "review_redirect_to_/catalog",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/privacy",
+    "target_path": "/privacy",
+    "type": "Информация",
+    "title": "Политика конфиденциальности",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/radios",
+    "target_path": "/radios",
+    "type": "Отрасль",
+    "title": "Радиостанции и средства связи",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/service",
+    "target_path": "/service",
+    "type": "Услуга",
+    "title": "Гарантия и сервис",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/solar_power",
+    "target_path": "/solar_power",
+    "type": "Отрасль",
+    "title": "Солнечные электростанции",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/solutions-bla",
+    "target_path": "/solutions-bla",
+    "type": "Продукция",
+    "title": "Готовые аккумуляторные решения для Беспилотных летательных аппаратов и мультикоптеры",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/solutions",
+    "target_path": "/solutions",
+    "type": "Продукция",
+    "title": "Готовые аккумуляторные батареи — Купить в Lifebatt.ru",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/telecommunication",
+    "target_path": "/telecommunication",
+    "type": "Отрасль",
+    "title": "Телекоммуникационное оборудование",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/ups",
+    "target_path": "/ups",
+    "type": "Отрасль",
+    "title": "Источники бесперебойного питания и сетевые накопители энергии",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/warehouse_and_cleaning",
+    "target_path": "/warehouse_and_cleaning",
+    "type": "Отрасль",
+    "title": "Складская и клининговая техника",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/water_transport",
+    "target_path": "/water_transport",
+    "type": "Отрасль",
+    "title": "Водный транспорт",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": "https://lifebatt.ru/wheelchairs",
+    "target_path": "/wheelchairs",
+    "type": "Отрасль",
+    "title": "Инвалидные коляски",
+    "action": "preserve",
+    "notes": "Preserve unique content, contacts and page-specific FAQ; use actual source facts only."
+  },
+  {
+    "source": [
+      "https://lifebatt.ru/"
+    ],
+    "target_path": "/about",
+    "type": "Предлагаемая новая страница",
+    "title": "О компании LifeBatt",
+    "action": "derive_from_existing_content"
+  },
+  {
+    "source": [
+      "https://lifebatt.ru/"
+    ],
+    "target_path": "/contacts",
+    "type": "Предлагаемая новая страница",
+    "title": "Контакты LifeBatt",
+    "action": "derive_from_existing_content"
+  },
+  {
+    "source": [
+      "https://lifebatt.ru/"
+    ],
+    "target_path": "/applications",
+    "type": "Предлагаемая новая страница",
+    "title": "Сферы применения",
+    "action": "derive_from_existing_content"
+  },
+  {
+    "source": [
+      "https://lifebatt.ru/service",
+      "https://lifebatt.ru/"
+    ],
+    "target_path": "/repair",
+    "type": "Предлагаемая новая страница",
+    "title": "Ремонт аккумуляторов",
+    "action": "derive_from_existing_content"
+  },
+  {
+    "source": [
+      "https://lifebatt.ru/service",
+      "https://lifebatt.ru/"
+    ],
+    "target_path": "/diagnostics",
+    "type": "Предлагаемая новая страница",
+    "title": "Диагностика аккумуляторов",
+    "action": "derive_from_existing_content"
+  }
+]

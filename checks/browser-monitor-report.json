@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-08",
+  "browser": "Codex IAB via CUA",
+  "preview": "http://127.0.0.1:4173/",
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "homepageHorizontalOverflow": false,
+  "httpRoutes": 34,
+  "httpErrors": 0,
+  "staticAssertions": 170,
+  "domAssertions": 31,
+  "browserChecks": [
+    "mobile menu navigation",
+    "BMS search 1 result",
+    "energy category 2 results",
+    "reset 25 results",
+    "native FAQ",
+    "dialog open/close",
+    "empty form errors",
+    "filled form explicitly not sent",
+    "390px dialog fits viewport"
+  ],
+  "browserConsoleErrors": 0,
+  "limits": [
+    "All 34 routes not individually rendered at all 3 widths",
+    "native focus trap not independently tested"
+  ],
+  "typoFieldsFixed": 28
+}

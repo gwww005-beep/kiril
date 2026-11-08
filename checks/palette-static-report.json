@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-08",
+  "status": "incomplete_environment_blocked",
+  "routes": 34,
+  "htmlFilesRead": 70,
+  "staticMarkupChecks": [
+    {
+      "route": "/",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/catalog",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/li-ion",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/li-pol",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/lifepo4",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/lto",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/chargers",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/bms",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/solutions",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/solutions-bla",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/warehouse_and_cleaning",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/multicopters",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/radios",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/water_transport",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/medical",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/electric_cars",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/solar_power",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/wheelchairs",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/alarmsystems",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/telecommunication",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/ups",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/mobility",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/gas_and_oil",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/military_industry",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/battery-design",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/repair",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/diagnostics",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/applications",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/about",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/contacts",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/delivery_and_payment",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/service",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/otzyvy",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    },
+    {
+      "route": "/privacy",
+      "oneH1": true,
+      "noindex": true,
+      "canonical": true,
+      "formsLocal": true
+    }
+  ],
+  "geometryBlocksPreserved": 738,
+  "geometryUnchanged": true,
+  "scope": {
+    "appScriptUnchanged": true,
+    "contentUnchanged": true,
+    "photographsUnchanged": true,
+    "renderChange": "theme-color only"
+  },
+  "contrast": {
+    "primaryNavyOnOrange": 6.66,
+    "secondaryNavyOnBlue": 5.61,
+    "bodyMinimum": 13.03,
+    "mutedMinimum": 7.84,
+    "dimMinimum": 6.07
+  },
+  "build": "blocked: sandbox_apply Operation not permitted",
+  "existingTests": "not run: command tool requires approval but approval policy is never",
+  "rebuildCheck": {
+    "result": {
+      "project": "/Users/a1/Documents/Craft Anything/upgroup-ru",
+      "report": "The check couldn't run: Couldn't start the private browser: Google Chrome closed after 0.1 s, before it was ready."
+    }
+  },
+  "browser": "blocked: sandbox_apply Operation not permitted",
+  "preview": "colour-only file synchronization, not a completed build",
+  "archive": "previous build; not refreshed"
+}

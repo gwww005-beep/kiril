@@ -1,0 +1,240 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/catalog",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/li-ion",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/li-pol",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/lifepo4",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/lto",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/chargers",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/bms",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/solutions",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/solutions-bla",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/warehouse_and_cleaning",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/multicopters",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/radios",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/water_transport",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/medical",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/electric_cars",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/solar_power",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/wheelchairs",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/alarmsystems",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/telecommunication",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/ups",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/mobility",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/gas_and_oil",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/military_industry",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/battery-design",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/repair",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/diagnostics",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/applications",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/contacts",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/delivery_and_payment",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/service",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/otzyvy",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  },
+  {
+    "path": "/privacy",
+    "status": 200,
+    "lifebatt": true,
+    "foreign_brand": false,
+    "bad_spacing": false
+  }
+]
