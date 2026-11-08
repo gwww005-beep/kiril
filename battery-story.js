@@ -1,6 +1,8 @@
 (() => {
   const story = document.querySelector('[data-battery-story]');
-  if (!story) return;
+  const hero = document.querySelector('.hero');
+  const header = document.querySelector('.header');
+  if (!story || !hero) return;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   const cells = [...story.querySelectorAll('[data-cell]')];
   const steps = [...story.querySelectorAll('[data-battery-step]')];
@@ -9,14 +11,16 @@
   const clamp = n => Math.max(0, Math.min(1, n));
   const phase = (p, start, end) => clamp((p - start) / (end - start));
   const ease = t => t * t * (3 - 2 * t);
-  let frame = 0, range = 1, lastStage = -1;
+  let frame = 0, start = 0, range = 1, lastStage = -1;
   function measure() {
-    range = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+    start = Math.max(0, hero.offsetTop + hero.offsetHeight - (header?.offsetHeight || 0));
+    range = Math.max(1, document.documentElement.scrollHeight - window.innerHeight - start);
     schedule();
   }
   function draw() {
     frame = 0;
-    const p = reduced.matches ? 1 : clamp(window.scrollY / range);
+    story.classList.toggle('is-visible', window.scrollY >= start);
+    const p = reduced.matches ? 1 : clamp((window.scrollY - start) / range);
     const set = (name, value) => story.style.setProperty(name, value.toFixed(4));
     cells.forEach((cell, i) => {
       const t = ease(phase(p, .015 + i * .012, .15 + i * .012));
