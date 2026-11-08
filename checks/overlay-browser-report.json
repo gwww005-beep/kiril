@@ -1,0 +1,1154 @@
+{
+  "desktop": [
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.0294,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/catalog",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.1724,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/li-ion",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2619,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/li-pol",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2553,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/lifepo4",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2532,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/lto",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2532,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/chargers",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2532,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/bms",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2553,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/solutions",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2553,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/solutions-bla",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2553,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/warehouse_and_cleaning",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3034,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/multicopters",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3037,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/radios",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3037,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/water_transport",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3078,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/medical",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3144,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/electric_cars",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3078,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/solar_power",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3078,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/wheelchairs",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3078,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/alarmsystems",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.311,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/telecommunication",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.311,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/ups",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2992,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/mobility",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3034,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/gas_and_oil",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3034,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/military_industry",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.311,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/battery-design",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.223,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/repair",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2321,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/diagnostics",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2364,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/applications",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.2293,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/about",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.1772,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/contacts",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.665,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/delivery_and_payment",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.4821,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/service",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.3077,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/otzyvy",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.4863,
+        "visible": true,
+        "y": 900
+      }
+    },
+    {
+      "top": {
+        "broken": 0,
+        "hidden": true,
+        "mainMargin": "0px",
+        "overflow": false,
+        "storyCount": 1,
+        "url": "/privacy",
+        "width": 1440
+      },
+      "scrolled": {
+        "mainMargin": "0px",
+        "progress": 0.0913,
+        "visible": true,
+        "y": 900
+      }
+    }
+  ],
+  "mobile": [
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/catalog",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/li-ion",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/li-pol",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/lifepo4",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/lto",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/chargers",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/bms",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/solutions",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/solutions-bla",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/warehouse_and_cleaning",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/multicopters",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/radios",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/water_transport",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/medical",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/electric_cars",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/solar_power",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/wheelchairs",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/alarmsystems",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/telecommunication",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/ups",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/mobility",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/gas_and_oil",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/military_industry",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/battery-design",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/repair",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/diagnostics",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/applications",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/about",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/contacts",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/delivery_and_payment",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/service",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/otzyvy",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    },
+    {
+      "top": {
+        "hidden": true,
+        "overflow": false,
+        "path": "/privacy",
+        "width": 390
+      },
+      "scroll": {
+        "mainMargin": "0px",
+        "overflow": false,
+        "railRight": 17,
+        "visible": true
+      }
+    }
+  ],
+  "breakpoints": [
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/catalog",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/li-ion",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/about",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/contacts",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/privacy",
+      "storyHidden": true,
+      "width": 768
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/",
+      "storyHidden": true,
+      "width": 1920
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/catalog",
+      "storyHidden": true,
+      "width": 1920
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/li-ion",
+      "storyHidden": true,
+      "width": 1920
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/about",
+      "storyHidden": true,
+      "width": 1920
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/contacts",
+      "storyHidden": true,
+      "width": 1920
+    },
+    {
+      "mainMargin": "0px",
+      "overflow": false,
+      "path": "/privacy",
+      "storyHidden": true,
+      "width": 1920
+    }
+  ],
+  "interactionChecks": [
+    "catalog search returned one result",
+    "mobile menu hides drawing",
+    "menu navigation resets at new page",
+    "modal open and close without submission",
+    "browser back restored catalog scroll",
+    "privacy footer reaches completed battery"
+  ]
+}

@@ -47,6 +47,30 @@ Object.defineProperty(document.querySelector('.hero'),'offsetHeight',{value:1100
 scrollTo(1043);expect(!story.classList.contains('is-visible'),'Changed hero height updates the visibility boundary');
 scrollTo(1044);expect(story.classList.contains('is-visible')&&story.dataset.progress==='0.0000','Resized hero starts assembly at its new end');
 expect(story.getAttribute('aria-hidden')==='true'&&!story.querySelector('a,button,input'),'Decoration is excluded from keyboard and screen reader navigation');
-const report={checks,failures:[],coverage:['hero visibility boundary','responsive hero height','assembly order','reverse scroll','restoration','overscroll','animation frame coalescing','reduced motion','resize','decorative accessibility']};
+// Every generated route must carry and run the same shared component.
+const routes=JSON.parse(await readFile(new URL('../docs/routes.json',import.meta.url),'utf8'));
+for(const route of routes){
+ const file=route.path==='/'?'index.html':route.path.slice(1)+'/index.html';
+ const {document:doc}=parseHTML(await readFile(new URL('../dist/'+file,import.meta.url),'utf8'));
+ expect(doc.querySelectorAll('[data-battery-story]').length===1&&doc.querySelectorAll('script[src*="battery-story.js"]').length===1,route.path+': exactly one component and controller');
+ if(route.path==='/')continue;
+ const queue=[],listeners={},win={innerHeight:900,scrollY:0,addEventListener:(event,fn)=>listeners[event]=fn};
+ Object.defineProperty(doc.documentElement,'scrollHeight',{value:3600,configurable:true});
+ vm.runInNewContext(script,{document:doc,window:win,matchMedia:()=>({matches:false,addEventListener(){}}),requestAnimationFrame:fn=>{queue.push(fn);return queue.length;}});
+ const flushRoute=()=>{while(queue.length)queue.shift()();};
+ const component=doc.querySelector('[data-battery-story]');
+ flushRoute();expect(!component.classList.contains('is-visible'),route.path+': clean initial view');
+ win.scrollY=121;listeners.scroll();flushRoute();
+ expect(component.classList.contains('is-visible')&&component.dataset.stage==='0',route.path+': starts without a home hero');
+ win.scrollY=2700;listeners.scroll();flushRoute();
+ expect(component.dataset.progress==='1.0000'&&component.dataset.stage==='4',route.path+': completes at its own footer');
+ win.scrollY=0;listeners.pageshow();flushRoute();
+ expect(!component.classList.contains('is-visible')&&component.dataset.progress==='0.0000',route.path+': returning to top resets it');
+ // Search/filter/FAQ changes can alter the document length after initialization.
+ Object.defineProperty(doc.documentElement,'scrollHeight',{value:1000,configurable:true});
+ win.scrollY=100;listeners.resize();flushRoute();
+ expect(component.dataset.progress==='1.0000',route.path+': a shortened page still reaches the final stage');
+}
+const report={checks,failures:[],routes:routes.length,coverage:['shared component on all routes','inner-page activation','short pages and dynamic height','hero visibility boundary','responsive hero height','assembly order','reverse scroll','restoration','overscroll','animation frame coalescing','reduced motion','resize','decorative accessibility']};
 await writeFile(new URL('../checks/battery-story-report.json',import.meta.url),JSON.stringify(report,null,2));
 console.log(`Battery story: ${checks} checks passed.`);

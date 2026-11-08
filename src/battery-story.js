@@ -2,7 +2,7 @@
   const story = document.querySelector('[data-battery-story]');
   const hero = document.querySelector('.hero');
   const header = document.querySelector('.header');
-  if (!story || !hero) return;
+  if (!story) return;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   const cells = [...story.querySelectorAll('[data-cell]')];
   const steps = [...story.querySelectorAll('[data-battery-step]')];
@@ -13,8 +13,13 @@
   const ease = t => t * t * (3 - 2 * t);
   let frame = 0, start = 0, range = 1, lastStage = -1;
   function measure() {
-    start = Math.max(0, hero.offsetTop + hero.offsetHeight - (header?.offsetHeight || 0));
-    range = Math.max(1, document.documentElement.scrollHeight - window.innerHeight - start);
+    const available = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+    // Home stays clear through the hero. Inner pages use the same small scroll
+    // threshold as the reference, without requiring a home-only hero element.
+    start = hero
+      ? Math.max(0, hero.offsetTop + hero.offsetHeight - (header?.offsetHeight || 0))
+      : Math.min(120, available * .2);
+    range = Math.max(1, available - start);
     schedule();
   }
   function draw() {

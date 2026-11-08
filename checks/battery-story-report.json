@@ -1,7 +1,11 @@
 {
-  "checks": 24,
+  "checks": 223,
   "failures": [],
+  "routes": 34,
   "coverage": [
+    "shared component on all routes",
+    "inner-page activation",
+    "short pages and dynamic height",
     "hero visibility boundary",
     "responsive hero height",
     "assembly order",
