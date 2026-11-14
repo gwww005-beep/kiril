@@ -1,7 +1,7 @@
 {
-  "checks": 223,
+  "checks": 367,
   "failures": [],
-  "routes": 34,
+  "routes": 58,
   "coverage": [
     "shared component on all routes",
     "inner-page activation",

@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-14",
+  "checks": [
+    {
+      "width": 390,
+      "route": "/",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/catalog",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/catalog/demo-01",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/wheelchairs",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/catalog",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/catalog/demo-01",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/wheelchairs",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/catalog",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/catalog/demo-01",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/wheelchairs",
+      "brokenImages": 0,
+      "h1": 1,
+      "overflow": false
+    }
+  ],
+  "consoleErrors": [],
+  "interactions": [
+    "category and capacity intersection",
+    "search коляска",
+    "selection add",
+    "request preparation"
+  ],
+  "note": "Real browser; 4 representative routes at 390/768/1440. Static checks cover all 58 routes."
+}

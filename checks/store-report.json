@@ -1,0 +1,17 @@
+{
+  "checks": 78,
+  "failures": 0,
+  "mode": "DOM behavior simulation",
+  "coverage": [
+    "10 categories",
+    "search",
+    "combined filters",
+    "URL restore",
+    "sort",
+    "selection quantity",
+    "local storage",
+    "corrupt storage",
+    "request text",
+    "demo disclosures"
+  ]
+}

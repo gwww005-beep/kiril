@@ -8,6 +8,7 @@ await rm(out,{recursive:true,force:true});await mkdir(out,{recursive:true});
 await cp(path.join(root,'public'),out,{recursive:true});
 await cp(path.join(root,'src/styles.css'),path.join(out,'styles.css'));
 await cp(path.join(root,'src/app.js'),path.join(out,'app.js'));
+for(const name of ['store.js','store.css'])await cp(path.join(root,'src',name),path.join(out,name));
 await cp(path.join(root,'src/battery-story.js'),path.join(out,'battery-story.js'));
 for(const page of pages){const folder=path.join(out,page.path==='/'?'':page.path.slice(1));await mkdir(folder,{recursive:true});await writeFile(path.join(folder,'index.html'),renderPage(page));}
 await writeFile(path.join(out,'404.html'),render404());

@@ -64,7 +64,7 @@ for (const file of files.filter(file => /\.(html|css)$/.test(file) && path.basen
     for (const match of text.matchAll(/url\(['"]?([^'"\)]+)/g)) await verifyUrl(match[1], file);
   }
 }
-if (pages !== 34) errors.push(`Expected 34 pages, found ${pages}`);
+if (pages !== routes.length) errors.push(`Expected ${routes.length} pages, found ${pages}`);
 const report = {pages, checkedResources, basePath: base, url: origin + base + '/', errors};
 await mkdir(path.join(root, 'checks'), {recursive: true});
 await writeFile(path.join(root, 'checks/github-pages-report.json'), JSON.stringify(report, null, 2));
